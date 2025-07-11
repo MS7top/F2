@@ -1,1 +1,78 @@
+--[[
+                                                                                
+                                                                                
+FFFFFFFFFFFFFFFFFFFFFF 222222222222222                                          
+F::::::::::::::::::::F2:::::::::::::::22                                        
+F::::::::::::::::::::F2::::::222222:::::2                                       
+FF::::::FFFFFFFFF::::F2222222     2:::::2                                       
+  F:::::F       FFFFFF            2:::::2                                       
+  F:::::F                         2:::::2                                       
+  F::::::FFFFFFFFFF            2222::::2                                        
+  F:::::::::::::::F       22222::::::22                                         
+  F:::::::::::::::F     22::::::::222                                           
+  F::::::FFFFFFFFFF    2:::::22222                                              
+  F:::::F             2:::::2                                                   
+  F:::::F             2:::::2                                                   
+FF:::::::FF           2:::::2       222222                                      
+F::::::::FF           2::::::2222222:::::2                                      
+F::::::::FF           2::::::::::::::::::2                                      
+FFFFFFFFFFF           22222222222222222222                                      
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+TTTTTTTTTTTTTTTTTTTTTTThhhhhhh                                                  
+T:::::::::::::::::::::Th:::::h                                                  
+T:::::::::::::::::::::Th:::::h                                                  
+T:::::TT:::::::TT:::::Th:::::h                                                  
+TTTTTT  T:::::T  TTTTTT h::::h hhhhh           eeeeeeeeeeee                     
+        T:::::T         h::::hh:::::hhh      ee::::::::::::ee                   
+        T:::::T         h::::::::::::::hh   e::::::eeeee:::::ee                 
+        T:::::T         h:::::::hhh::::::h e::::::e     e:::::e                 
+        T:::::T         h::::::h   h::::::he:::::::eeeee::::::e                 
+        T:::::T         h:::::h     h:::::he:::::::::::::::::e                  
+        T:::::T         h:::::h     h:::::he::::::eeeeeeeeeee                   
+        T:::::T         h:::::h     h:::::he:::::::e                            
+      TT:::::::TT       h:::::h     h:::::he::::::::e                           
+      T:::::::::T       h:::::h     h:::::h e::::::::eeeeeeee                   
+      T:::::::::T       h:::::h     h:::::h  ee:::::::::::::e                   
+      TTTTTTTTTTT       hhhhhhh     hhhhhhh    eeeeeeeeeeeeee                   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+BBBBBBBBBBBBBBBBB                                                 tttt          
+B::::::::::::::::B                                             ttt:::t          
+B::::::BBBBBB:::::B                                            t:::::t          
+BB:::::B     B:::::B                                           t:::::t          
+  B::::B     B:::::B    eeeeeeeeeeee        ssssssssss   ttttttt:::::ttttttt    
+  B::::B     B:::::B  ee::::::::::::ee    ss::::::::::s  t:::::::::::::::::t    
+  B::::BBBBBB:::::B  e::::::eeeee:::::eess:::::::::::::s t:::::::::::::::::t    
+  B:::::::::::::BB  e::::::e     e:::::es::::::ssss:::::stttttt:::::::tttttt    
+  B::::BBBBBB:::::B e:::::::eeeee::::::e s:::::s  ssssss       t:::::t          
+  B::::B     B:::::Be:::::::::::::::::e    s::::::s            t:::::t          
+  B::::B     B:::::Be::::::eeeeeeeeeee        s::::::s         t:::::t          
+  B::::B     B:::::Be:::::::e           ssssss   s:::::s       t:::::t    tttttt
+BB:::::BBBBBB::::::Be::::::::e          s:::::ssss::::::s      t::::::tttt:::::t
+B:::::::::::::::::B  e::::::::eeeeeeee  s::::::::::::::s       tt::::::::::::::t
+B::::::::::::::::B    ee:::::::::::::e   s:::::::::::ss          tt:::::::::::tt
+BBBBBBBBBBBBBBBBB       eeeeeeeeeeeeee    sssssssssss              ttttttttttt  
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+]]
 loadstring(game:HttpGet("https://raw.githubusercontent.com/MS7top/F2/refs/heads/main/F2%20v0.2%20x.txt"))()
